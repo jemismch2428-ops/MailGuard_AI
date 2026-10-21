@@ -1,0 +1,13 @@
+subject,body,label
+"Computer Science assignment","Please submit your assignment by Friday.",safe
+"Meeting confirmation","Our project meeting is at 11 AM in the lab.",safe
+"Library hours update","The library will close at 5 PM today.",safe
+"Your parcel delivery update","Your parcel is scheduled for delivery tomorrow.",safe
+"Congratulations you won","You have won a cash prize. Claim your prize now.",spam
+"Exclusive deal","Limited time offer. Buy now and get a free gift.",spam
+"Special promotion","Click to claim your discount and free gift.",spam
+"Work from home offer","Make money fast with this exclusive offer.",spam
+"Urgent account verification","Your bank account is blocked. Verify your password immediately.",phishing
+"Security alert","Your account will be suspended. Confirm your password now.",phishing
+"Confirm your identity","Unusual activity detected. Reset your password immediately.",phishing
+"Payment failed","Click here to avoid account suspension and confirm your banking password.",phishing
